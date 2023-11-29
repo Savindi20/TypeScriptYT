@@ -17,12 +17,12 @@ class StudentManager {
 }
 
 StudentManager.addStudent({
-    name: 'srinesh',
+    name: 'Savindi',
     address: '',
     contact: [1111111],
 });
 StudentManager.addStudent({
-    name: 'nisala',
+    name: 'Sewmi',
     address: '',
     contact: [],
 });
