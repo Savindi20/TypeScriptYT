@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "tsc":"tsc"
+  },
   "dependencies": {
     "ts-loader": "^9.5.1",
     "typescript": "^5.3.2",
